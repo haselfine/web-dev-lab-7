@@ -1,0 +1,3 @@
+It means that the variable "total" is written in the HTML template but not the Vue instance.
+
+To fix, you need to create the variable in the Vue instance or make sure your spelling matches in both the template and the Vue instance.
